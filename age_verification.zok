@@ -1,0 +1,6 @@
+// age_check.zok
+def main(private field age) {
+    // Verifica se l'età è maggiore o uguale a 18
+    assert(age >= 18);
+    return;
+}
